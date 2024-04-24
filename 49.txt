@@ -1,0 +1,4 @@
+class SmartContractMarket:
+    def list_contract(self, contract, price):
+        # List contracts on the smart contract marketplace
+        pass
